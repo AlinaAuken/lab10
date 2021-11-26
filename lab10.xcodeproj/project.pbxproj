@@ -16,6 +16,7 @@
 		F79AC2A827513289008C5395 /* lab10Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79AC2A727513289008C5395 /* lab10Tests.swift */; };
 		F79AC2B227513289008C5395 /* lab10UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79AC2B127513289008C5395 /* lab10UITests.swift */; };
 		F79AC2B427513289008C5395 /* lab10UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79AC2B327513289008C5395 /* lab10UITestsLaunchTests.swift */; };
+		F79AC2C12751355C008C5395 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = F79AC2C02751355C008C5395 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F79AC2AD27513289008C5395 /* lab10UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lab10UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F79AC2B127513289008C5395 /* lab10UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab10UITests.swift; sourceTree = "<group>"; };
 		F79AC2B327513289008C5395 /* lab10UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lab10UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F79AC2C02751355C008C5395 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		F79AC28427513287008C5395 = {
 			isa = PBXGroup;
 			children = (
+				F79AC2C02751355C008C5395 /* File.swift */,
 				F79AC28F27513287008C5395 /* lab10 */,
 				F79AC2A627513289008C5395 /* lab10Tests */,
 				F79AC2B027513289008C5395 /* lab10UITests */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F79AC29527513287008C5395 /* ViewController.swift in Sources */,
+				F79AC2C12751355C008C5395 /* File.swift in Sources */,
 				F79AC29127513287008C5395 /* AppDelegate.swift in Sources */,
 				F79AC29327513287008C5395 /* SceneDelegate.swift in Sources */,
 			);
